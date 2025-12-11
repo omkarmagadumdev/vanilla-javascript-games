@@ -153,6 +153,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
     initiateGame();
 
-   
+   function snakeaddscore(){
+    //logic
+   }
     
 });
